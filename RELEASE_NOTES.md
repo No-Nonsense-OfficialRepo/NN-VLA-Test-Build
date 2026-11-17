@@ -1,4 +1,4 @@
-# NN VLA 1.0.11 preview
+# NNVLA v1.0.11 Test Build
 
 This is a Windows x64 development preview of the standalone No-Nonsense room UI.
 
